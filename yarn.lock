@@ -678,9 +678,9 @@ get-stream@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-3.0.0.tgz#8e943d1358dc37555054ecbe2edb05aa174ede14"
 
-git-url-prettify@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/git-url-prettify/-/git-url-prettify-0.0.1.tgz#977add9c37c17cd58b5ce6459eb384b01cfca95e"
+git-url-prettify@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/git-url-prettify/-/git-url-prettify-0.0.2.tgz#b114c0e0aa05d318fd29dc42b24688785bfa1c57"
 
 glob@^7.0.0, glob@^7.0.3, glob@^7.0.5:
   version "7.1.2"
