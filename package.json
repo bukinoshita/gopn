@@ -28,7 +28,7 @@
     "is-github-repo": "^0.0.1",
     "meow": "^3.7.0",
     "opn": "^5.1.0",
-    "shout-error": "^0.0.1",
+    "shout-error": "^0.0.2",
     "update-notifier": "^2.2.0"
   },
   "devDependencies": {
