@@ -24,7 +24,7 @@
     "test": "xo"
   },
   "dependencies": {
-    "git-url-prettify": "^0.0.1",
+    "git-url-prettify": "^0.0.2",
     "is-github-repo": "^0.0.1",
     "meow": "^3.7.0",
     "opn": "^5.1.0",
