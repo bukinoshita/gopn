@@ -26,7 +26,7 @@
   "dependencies": {
     "git-url-prettify": "^0.0.2",
     "is-github-repo": "^0.0.2",
-    "meow": "^3.7.0",
+    "meow": "^5.0.0",
     "opn": "^5.1.0",
     "shout-error": "^0.0.2",
     "update-notifier": "^2.2.0"
